@@ -2,9 +2,7 @@
 //  AppDelegate.swift
 //  Apple Watch App
 //
-//  Created by Rob Percival on 15/12/2014.
-//  Copyright (c) 2014 Appfish. All rights reserved.
-//
+
 
 import UIKit
 
